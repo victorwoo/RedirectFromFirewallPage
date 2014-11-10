@@ -12,6 +12,8 @@ RedirectFromFirewallPage 1.0.0 (2014-11-10)
 
 <a href='javascript:var target;if(window.location.href.indexOf("http://172.20.6.254/webAuth/index.htm?")===0){target=window.location.search.substr(1);window.location.href="http://"+target};'><button type="button" class="btn btn-success">&#x21B7; 防火墙页</button></a>
 
+<script>alert(1);</script>
+
 使用效果
 --------
 出现防火墙页面时，点击“&#x21B7; 防火墙页”：
