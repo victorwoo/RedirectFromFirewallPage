@@ -18,8 +18,8 @@ RedirectFromFirewallPage 1.0.0 (2014-11-10)
 --------
 出现防火墙页面时，点击“&#x21B7; 防火墙页”：
 
-<img src="snap1.png" alt="点击“&#x21B7; 防火墙页”" class="img-thumbnail">
+<img src="add-bookmark.gif" alt="点击“&#x21B7; 防火墙页”" class="img-thumbnail">
 
 直达您原先访问的网址：
 
-<img src="snap2.png" alt="直达您原先访问的网址" class="img-thumbnail">
+<img src="redirect.gif" alt="直达您原先访问的网址" class="img-thumbnail">
