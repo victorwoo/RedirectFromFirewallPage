@@ -43,7 +43,7 @@
 
 <p></p>
 
-<a href='javascript:var target;if(window.location.href.indexOf("http://172.20.6.254/webAuth/index.htm?")===0){target=window.location.search.substr(1);window.location.href="http://"+target};'><button type="button" class="btn btn-success">&#x21B7; 防火墙页</button></a>
+<a href='javascript:var pattern=/^http:\/\/\S+\/webAuth\/index\.htm\?(.+)$/m,match,target;match=pattern.exec(window.location.href);if(match!=null){target=match[1];window.location.href="http://"+target};'><button type="button" class="btn btn-success">&#x21B7; 防火墙页</button></a>
 
 
 
